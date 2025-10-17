@@ -8,6 +8,5 @@
 |         3|   N20 | N20 micro metal gear motors 50:1        | NIEUW      |       7,08   |  2  |     14,16  
 |         4|  ARDUINO UNO | ARDUINO UNO | RECUP    |     0 |  1  |     0 
 |         5|  AA BATTERIJ | BATTERIJEN | RECUP      |      0   |  4 |    0  
-|         6|   BATTERIJHOUDER | BATTERIJHOUDER       | RECUP     |       0  | 1 |     0 
-|         7|   KABELS| DUPONT JUMPER KABELS  | RECUP     |     0   |  30+ |     0
-|         8|   WIELEN | Wiel met rubber voor robot of smart car geel (OT5860)     | NIEUW      |     1,80   |  2  |     3,60 
+|         6|   KABELS| DUPONT JUMPER KABELS  | RECUP     |     0   |  30+ |     0
+|         7|   CHASSIS+WIELEN+BATTERIJHOUDER| BOUWPAKKET CHASSIS+WIELEN+BATTERIJHOUDER| NIEUW    |    14,04 |  1 |    14,04
