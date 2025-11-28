@@ -7,19 +7,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino UNO
 
-motors: 
+motors: N20 micro metal gear motor
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries: 4x AA batterijen
 
-wireless communication:
-
-distance sensor - motors:
+wireless communication: HC-05
 
 weight:
 
